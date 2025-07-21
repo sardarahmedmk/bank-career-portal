@@ -1,0 +1,3 @@
+candidate_id,name,email,phone,cnic,position,experience,education,location_preference,salary_expectation,application_date,status,overall_score,banking_score,customer_service_score,interview_recommendation,interview_date,interview_status,final_decision,hr_notes,created_at,updated_at
+UBL_20250718_232910,sardar ahmed,sardar387malik@gmail.com,'+923081601969,4350204339853,HR Officer,Fresh Graduate,Bachelors,Karachi,80000,2025-07-18,Assessment Failed,5.1,13.1,0,Not Selected,,Not Scheduled,Under Review,,2025-07-18 23:29:10,2025-07-18 23:29:33
+UBL-20250720-3315,Sardar malik,sardar777malik@gmail.com,+923081601969,12232342423443,IT Officer,Information Technology,Bachelor's Degree,0-1 years,12.8%,Not Selected,2025-07-20 00:19,xyz,Immediately,12345
