@@ -7,11 +7,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ubl-career-portal?style=flat&logo=github)](https://github.com/yourusername/ubl-career-portal/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/sardarahmedmk/bank-career-portal?style=flat&logo=github)](https://github.com/sardarahmedmk/bank-career-portal/stargazers)
 
 **A comprehensive, enterprise-grade career portal for UBL Bank with integrated assessment system and HR management dashboard.**
 
-[🚀 Live Demo](http://localhost:8501) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/yourusername/ubl-career-portal/issues) • [✨ Request Feature](https://github.com/yourusername/ubl-career-portal/issues)
+[🚀 Live Demo](http://localhost:8501) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/sardarahmedmk/bank-career-portal/issues) • [✨ Request Feature](https://github.com/sardarahmedmk/bank-career-portal/issues)
 
 </div>
 
@@ -76,8 +76,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ubl-career-portal.git
-   cd ubl-career-portal
+   git clone https://github.com/sardarahmedmk/bank-career-portal.git
+   cd bank-career-portal
    ```
 
 2. **Install dependencies**
@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Email**: support@ublcareerportal.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ubl-career-portal/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/ubl-career-portal/wiki)
+- **Issues**: [GitHub Issues](https://github.com/sardarahmedmk/bank-career-portal/issues)
+- **Documentation**: [Wiki](https://github.com/sardarahmedmk/bank-career-portal/wiki)
 
 ---
 
@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ for UBL Bank Career Management
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/sardarahmedmk?style=social)](https://github.com/sardarahmedmk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sardarahmedmk?style=social)](https://twitter.com/sardarahmedmk)
 
 </div>
