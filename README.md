@@ -11,7 +11,7 @@
 
 **A comprehensive, enterprise-grade career portal for UBL Bank with integrated assessment system and HR management dashboard.**
 
-[🚀 Live Demo](http://localhost:8501) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/sardarahmedmk/bank-career-portal/issues) • [✨ Request Feature](https://github.com/sardarahmedmk/bank-career-portal/issues)
+[🚀 **LIVE DEMO**](https://bank-career-app-w5vuncvfddyeovboppuxrx.streamlit.app/) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/sardarahmedmk/bank-career-portal/issues) • [✨ Request Feature](https://github.com/sardarahmedmk/bank-career-portal/issues)
 
 </div>
 
@@ -38,6 +38,16 @@
 ### 📈 Analytics
 ![Analytics Dashboard](images/analytics.png)
 *Detailed analytics and reporting with Excel export functionality*
+
+---
+
+## 🌍 **Mobile Access - Available Worldwide!**
+
+### 📱 **Access from anywhere:**
+- **🔗 Live URL**: [https://bank-career-app-w5vuncvfddyeovboppuxrx.streamlit.app/](https://bank-career-app-w5vuncvfddyeovboppuxrx.streamlit.app/)
+- **📱 Mobile Ready**: Perfect mobile experience on any device
+- **🌎 Global Access**: Works from any country, any network
+- **⚡ No Setup Required**: Just click and use!
 
 ---
 
